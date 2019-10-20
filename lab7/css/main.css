@@ -1,0 +1,20 @@
+body{
+    color: green;
+    background-color: indigo;
+}
+
+a{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(199, 199, 199);
+    text-decoration: overline;
+}
+/*img{
+    width: 50%;
+    
+}*/
+.bigimg{
+    width: 100%;
+}
